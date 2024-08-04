@@ -16,13 +16,13 @@ Key Components:
         Details: Maps specific hand gestures to volume control commands (e.g., swipe up for volume increase, swipe down for volume decrease). The pyautogui library simulates keystrokes or mouse movements to interact with the system’s volume control settings.
         
 Implementation Steps:
-     1.Setup Environment:
+  1.Setup Environment:
         Install required libraries:
             bash
             Copy code
             pip install opencv-python mediapipe pyautogui
             
-    2.Initialize Video Capture:
+ 2.Initialize Video Capture:
         Capture video feed using cv2.VideoCapture.
     3.Gesture Detection:
         Initialize Mediapipe’s hand detection model.

@@ -1,7 +1,7 @@
 Project Title: Hand Gesture Volume Control System
 Objective: Develop a Python application that allows users to control their system's volume using hand gestures. This system will utilize the cv2 library for video processing, mediapipe for hand gesture recognition, and pyautogui for interacting with the system’s volume control.
 Overview: This project creates an interactive tool for controlling the computer’s volume by detecting and interpreting hand gestures in real-time. By integrating cv2 for capturing video input, mediapipe for detecting and analyzing hand gestures, and pyautogui for manipulating the volume settings, users can adjust the volume with simple hand movements.
-Key Components: 
+Key Components:
      1.Video Capture:
         Library: cv2
         Function: Captures real-time video from the webcam.

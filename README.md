@@ -14,7 +14,7 @@ Key Components:
         Library: pyautogui
         Function: Adjusts the system volume based on detected gestures.
         Details: Maps specific hand gestures to volume control commands (e.g., pinch in  for volume increase, pinch out  for volume decrease). The pyautogui library simulates keystrokes or mouse movements to interact with the system’s volume control settings.
-        
+     
 Implementation Steps:
   1.Setup Environment:
         Install required libraries:
